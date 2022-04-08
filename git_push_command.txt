@@ -7,3 +7,15 @@ first of all
   5.)Now run "git status" command to check status
   6.)Now commit to the files you added or the changes you have made using "git commit" or "git commit -m"(for large number of files)
   7.)After commiting now you can finally push the changes on github using "git push origin main(to push to main branch) "commmand 
+  
+  
+Now, 
+for a seprate folder that is not created on github
+
+initalize git 
+add that file to git
+commit
+MAIN PART STARTS HERE
+create an empty github repo
+use git remote add origin "link with out double quotes"
+use -u to  set upstream and after that i dont have to type origin main agian and again 
