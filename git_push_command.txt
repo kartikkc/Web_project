@@ -1,0 +1,9 @@
+first of all 
+  (this method is the easy one)
+  1.)create a repo on github 
+  2.)Clone it to create a origin automatically or else it will be complicated
+  3.)Now iniate git on it using "git init"
+  4.)Now add which files you want to add on it using "git add -A (for all files)"
+  5.)Now run "git status" command to check status
+  6.)Now commit to the files you added or the changes you have made using "git commit" or "git commit -m"(for large number of files)
+  7.)After commiting now you can finally push the changes on github using "git push origin main(to push to main branch) "commmand 
